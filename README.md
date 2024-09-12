@@ -1,0 +1,1 @@
+This is a simple CRUD (Create, Read, Update, Delete) application using HTML, CSS, JavaScript. It allows users to add, delete, view and update items directly in the browser using client side JavaScript. This project demonstrates th ecore functionality of a CRUD system without any server-side or database integration.
